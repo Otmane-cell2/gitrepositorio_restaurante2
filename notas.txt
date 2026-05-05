@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Revisar por el jefe
+=======
+Versión 1 de menu.html
+>>>>>>> pruebas2
